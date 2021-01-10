@@ -31,8 +31,6 @@ package 동적계획법;
 	        for(int i = 0 ; i < n; i++){
 	            int cost = costArr[i];
 	            int memory = memoryArr[i];
-
-				
 	            for(int j = 0; j <= 10000; j++){
 	            	// 앱이 하나일 경우 예외처리
 	                if(i == 0) {
