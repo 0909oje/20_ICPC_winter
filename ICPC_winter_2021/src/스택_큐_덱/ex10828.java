@@ -1,7 +1,7 @@
 package 스택_큐_덱;
 import java.util.*;
 import java.io.*;
-
+//정수 저장 스택 후 입력으로 주어지는 명령을 처리하는 프로그램 작성
 public class ex10828 {
 	public static void main(String[] args) throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
